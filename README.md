@@ -9,7 +9,7 @@ A website that allows us to track work flows.
 * JavaScript
 
 ## Website
-https://jason-ahmed-123.github.io/run-buddy/
+https://jason-ahmed-123.github.io/taskinator/
 
 ## Contribution
 Made with ❤️ by Jason Ahmed
